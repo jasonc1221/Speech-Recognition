@@ -1,0 +1,12 @@
+So far all of the data for training our Stt model has been recorded by our members. If you wish to record data please take note of the following:
+  - Use the script RecordAudioData.py
+    - This script requires python3 and the pyAudio dependency to be installed
+  - Data is recorded in three second clips. While recording a word try your best to center it within the three second window.
+  - Speak clearly and loudly
+  - Keep background noise to a minimum
+  - Also follow any instructions the script mentions durring runtime
+  - This script will save all wav files it creates to your User folder by default.
+  
+Need help finding/thinking of words? 
+  - The top 3000 words in the english language: https://www.wordfrequency.info/free.asp?s=y
+Thank you for helping us collect data!
